@@ -24,7 +24,7 @@
 
 ## 🔥 주요 프로젝트
 
-- [S&P500 지수 상승 예측 머신러닝 프로젝트](https://github.com/dohyunkim96/SP500_ML)
+- [S&P 500 지수 방향성 예측을 위한 경제지표 기반 분류 모델링](https://github.com/dohyunkim96/sp500-direction-prediction)
     - 시계열 경제지표 및 기술적 지표 기반 상승 예측 모델 개발
 - [카드사 고객 세분화를 통한 수익 모델 최적화 방안 제안](https://github.com/dohyunkim96/credit-clustering)
     - KMeans 기반 고객 군집화 및 군집별 ROI 분석을 통한 전략 수립
