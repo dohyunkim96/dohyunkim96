@@ -64,5 +64,5 @@ UN 평화유지활동의 일환으로 레바논 파병 임무까지 수행하며
 
 - 📧 Email: doo6608@naver.com  
 - 💻 GitHub: [https://github.com/dohyunkim96](https://github.com/dohyunkim96)
-- [📥 이력서 다운로드 (PDF)](./resume.pdf)
+- 📥 이력서: [다운로드 (PDF)](./resume.pdf)
 
