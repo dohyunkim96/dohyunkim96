@@ -15,13 +15,17 @@
 
 ## 🔥 주요 프로젝트
 
-- [S&P 500 지수 방향성 예측](https://github.com/dohyunkim96/sp500-direction-prediction) (시계열 경제지표 및 기술적 지표를 활용한 머신러닝 분류 모델 개발)  
+- (개인)[무인판매점 매출 분석 대시보드](https://github.com/dohyunkim96/unmanned-store-dashboard)  
+  - 2025년 3~7월 무인판매점 매출 데이터를 분석하고 Tableau 대시보드 제작  
+  - 커피(53.4%) + 라면(30.7%) → 매출의 84% 차지 **[👉 Tableau 대시보드 체험하기](https://public.tableau.com/app/profile/.87511212/viz/1__17560918715200/1)**
+
+- (팀)[S&P 500 지수 방향성 예측](https://github.com/dohyunkim96/sp500-direction-prediction) (시계열 경제지표 및 기술적 지표를 활용한 머신러닝 분류 모델 개발)  
   - 경제지표 및 금융자산 데이터를 활용해 S&P500의 단기 상승 여부(0.2% 이상)를 예측하는 Random Forest 모델을 개발하였으며,  
     AUC 0.94, F1 Score 0.87의 성능을 달성. 
   - 시계열 분할, 파생 변수 생성(30여 종), SMOTE 등 전처리 및 성능 개선에 주도적으로 기여함.
 
 
-- [카드사 고객 세분화를 통한 수익 모델 최적화](https://github.com/dohyunkim96/credit-clustering) (KMeans 기반 고객 세그먼트 분석 및 군집별 마케팅 전략 수립 / ROI 분석)  
+- (팀)[카드사 고객 세분화를 통한 수익 모델 최적화](https://github.com/dohyunkim96/credit-clustering) (KMeans 기반 고객 세그먼트 분석 및 군집별 마케팅 전략 수립 / ROI 분석)  
   - 고객의 소비·소득·신용 데이터를 기반으로 UMAP+KMeans 클러스터링을 수행하여 5개 고객군 도출,  
 각 군집별 맞춤형 마케팅 전략 및 ROI 분석 진행.  
   - ‘초고위험 부채군’에는 리스크 완화 전략, ‘프리미엄 고객군’에는 고급 프로모션 전략을 제시하여  
