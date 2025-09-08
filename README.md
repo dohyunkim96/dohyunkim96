@@ -9,7 +9,7 @@
 이후 Python, SQL, Tableau등을 학습하고, 소비 패턴 클러스터링 및 S&P 500 지수 예측 프로젝트를 수행하며 분석 실무 경험을 쌓았습니다.  
 분석 도중 가설이 틀려도 “왜 틀렸는가”를 끈질기게 추적하며, 숫자 이면의 인사이트까지 도출하는 집요함이 저의 가장 큰 강점입니다.  
 데이터와 논리를 무기로, 기업의 성장을 이끄는 분석가가 되겠습니다.  
-[📥 이력서 바로 보기 (PDF)](https://github.com/dohyunkim96/dohyunkim96/blob/main/김도현_이력서.pdf)
+[📥 포트폴리오 바로 보기 (PDF)](https://github.com/dohyunkim96/dohyunkim96/blob/main/1.김도현_포트폴리오.pdf)
 
 ---
 
