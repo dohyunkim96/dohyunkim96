@@ -30,6 +30,12 @@
 
 ---
 
+## 📜 자격증
+**SQLD** | 2025.09  
+**ADsP** 취득예정
+
+---
+
 ## 🔥 주요 프로젝트
 
 - (개인)[무인판매점 매출 분석 대시보드](https://github.com/dohyunkim96/unmanned-store-dashboard)  
