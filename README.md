@@ -50,6 +50,11 @@
 
 ---
 
+## 🧑‍💼 경력 사항
+<img width="900" height="500" alt="경력 1" src="https://github.com/user-attachments/assets/2786d8ee-cbcd-4405-ab12-b97f14faca98" />
+
+---
+
 ## 🎓 교육 이수 내역
 
 - **프로그래머스 데이터 분석 데브코스** 수료 (2025.03 ~ 2025.07)
