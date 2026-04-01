@@ -8,6 +8,7 @@
 실제로 수작업 5~7일 걸리던 업무를 Python 자동화로 1시간으로 단축했고, 재고 데이터 분석을 통해 운영의사결정을 개선해왔습니다.  
   
 저는 단순히 데이터를 보는 사람이 아니라, 문제의 본질을 끝까지 파고드는 분석가입니다.  
+[자기소개서]
 [📥 포트폴리오 바로 보기 (PDF)](https://github.com/dohyunkim96/dohyunkim96/blob/main/Growth%20Data%20Analyst%20Portfolio.pdf)
 
 ---
@@ -73,24 +74,6 @@
 ## 🎓 학력 사항
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/492e4c6a-96ba-4e8f-a5a4-1ab893107ce9" />
 
-
----
-
-## 🎓 교육 이수 내역
-1.
-- **프로그래머스 데이터 분석 데브코스** 수료 (2025.03 ~ 2025.07)
-- 데이터 분석 전반에 대한 실무 중심 교육 이수
-- **Python, Pandas, SQL**을 활용한 데이터 수집 및 전처리
-- EDA(Exploratory Data Analysis) 기반의 **데이터 시각화 및 인사이트 도출**
-- 머신러닝 및 텍스트 데이터 마이닝을 활용한 예측 및 분류 모델 개발
-- **Tableau**를 활용한 데이터 시각화 및 대시보드 제작 교육 이수
-2.
-- **K디지털 기초역량 훈련** (2024.03 ~2024.03)
-- MYSQL과 파이썬을 설치하여 실습할 수 있는 환경을 구축  
-- 데이터를 분석하여 결과값을 그래프로 표현  
-- 분석한 데이터를 통해 인사이트를 얻고 의사결정에 활용.  
-- 데이터 커리어에 대한 이해를 기반으로 직무 활용
- 
 ---
 
 ## 🎯 목표
@@ -99,12 +82,11 @@
 - 다양한 산업의 데이터를 실무에서 다루며 분석 경험을 쌓고, 점차 금융 및 증권 분야로 전문성을 확장할 계획입니다.  
 - 장기적으로는 퀀트 투자 및 금융 데이터 기반 의사결정에 기여하는 분석 전문가로 성장하는 것이 최종 목표입니다.
 
-
 ---
 
 ## 📫 Contact
 
 - 📧 Email: doo6608@naver.com  
 - 💻 GitHub: [https://github.com/dohyunkim96](https://github.com/dohyunkim96)
-- 📥 포트폴리오: [다운로드 (PDF)](./1.김도현_포트폴리오.pdf)
+- 📥 포트폴리오: [다운로드 (PDF)](https://github.com/dohyunkim96/dohyunkim96/blob/main/Growth%20Data%20Analyst%20Portfolio.pdf)
 
