@@ -66,6 +66,7 @@
 
 ## 🧑‍💼 경력 사항
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29efebe3-5dcc-4eb1-9799-1839c44da945" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d8e4f6d7-b340-41ac-880b-a86a3e9c4edf" />
 
 ---
 
