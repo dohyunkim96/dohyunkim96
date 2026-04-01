@@ -65,11 +65,12 @@
 ---
 
 ## 🧑‍💼 경력 사항
-<<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29efebe3-5dcc-4eb1-9799-1839c44da945" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29efebe3-5dcc-4eb1-9799-1839c44da945" />
 
 ---
 
 ## 🎓 학력 사항
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/492e4c6a-96ba-4e8f-a5a4-1ab893107ce9" />
 
 
 ---
