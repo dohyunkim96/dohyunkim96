@@ -8,7 +8,7 @@
 실제로 수작업 5~7일 걸리던 업무를 Python 자동화로 1시간으로 단축했고, 재고 데이터 분석을 통해 운영의사결정을 개선해왔습니다.  
   
 저는 단순히 데이터를 보는 사람이 아니라, 문제의 본질을 끝까지 파고드는 분석가입니다.  
-[📥 포트폴리오 바로 보기 (PDF)](https://github.com/dohyunkim96/dohyunkim96/blob/main/1.김도현_포트폴리오.pdf)
+[📥 포트폴리오 바로 보기 (PDF)](https://github.com/dohyunkim96/dohyunkim96/blob/main/Growth%20Data%20Analyst%20Portfolio.pdf)
 
 ---
 
